@@ -1,0 +1,15 @@
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/model/UsuarioSecurityModel.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/repository/PermissaoRepository.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/repository/GrupoRepository.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/UsuarioApiApplication.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/model/GrupoModel.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/entity/GrupoEntity.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/entity/PermissaoEntity.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/WebSecurityConfig.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/controller/MainController.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/service/GrupoService.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/repository/UsuarioRepository.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/service/UsuarioService.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/model/UsuarioModel.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/controller/UsuarioController.java
+/home/development/Brenno/workspace/usuario_api/src/main/java/br/gov/go/pm/usuario_api/entity/UsuarioEntity.java
